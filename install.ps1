@@ -8,7 +8,7 @@ if (-not ([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdent
 # Define paths
 $appDataPath = Join-Path $env:APPDATA "TransFlow"
 $exePath = Join-Path $appDataPath "transflow-cli.exe"
-$downloadUrl = "https://voukengdongmofrankysteve.online/transflow/transflow-cli.exe"
+$downloadUrl = "https://github.com/winorg394/transflowcli/raw/refs/heads/main/transflow-cli.exe"
 
 # Create folder if it doesn't exist
 if (-not (Test-Path $appDataPath)) {
