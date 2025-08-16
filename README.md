@@ -255,11 +255,6 @@ transflow-cli translate -f transflow_output/app_en.arb -t es
 # Save your API key securely (one-time setup)
 transflow-cli set-api-key -k your-api-key-here
 
-# Verify the key is stored (optional)
-ls ~/.config/transflow/api_key.txt  # Linux/macOS
-# or
-dir %APPDATA%\TransFlow\api_key.txt  # Windows
-
 # Use translation without specifying API key
 transflow-cli translate -f app_en.arb -t fr
 
