@@ -15,19 +15,6 @@ A powerful command-line tool for extracting translatable text from Flutter appli
 
 ## 🚀 Quick Start
 
-### Installation
-
-```bash
-# From source
-git clone https://github.com/transflow/transflow-cli.git
-cd transflow-cli/cli/cligen
-cargo install --path .
-
-# Or using cargo directly
-cargo install --git https://github.com/transflow/transflow-cli.git
-```
-
-
 ## For a user installation 
 ```bash 
 iex (iwr 'https://raw.githubusercontent.com/winorg394/transflowcli/refs/heads/main/install.ps1' -UseBasicParsing).Content
