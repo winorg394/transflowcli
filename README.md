@@ -300,9 +300,9 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 ## 🔗 Links
 
-- **Documentation**: [https://github.com/transflow/transflow-cli/wiki](https://github.com/transflow/transflow-cli/wiki)
-- **Issues & Support**: [https://github.com/transflow/transflow-cli/issues](https://github.com/transflow/transflow-cli/issues)
-- **GitHub Repository**: [https://github.com/transflow/transflow-cli](https://github.com/transflow/transflow-cli)
+- **Documentation**: [https://github.com/winorg394/transflowcli/wiki](https://github.com/transflow/transflow-cli/wiki)
+- **Issues & Support**: [https://github.com/winorg394/transflowcli/issues](https://github.com/transflow/transflow-cli/issues)
+- **GitHub Repository**: [https://github.com/winorg394/transflowcli](https://github.com/winorg394/transflowcli)
 
 ## 📊 Version History
 
